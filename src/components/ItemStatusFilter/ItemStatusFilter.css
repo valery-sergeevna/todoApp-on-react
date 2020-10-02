@@ -1,0 +1,13 @@
+.btn-group{
+    margin-left: 5px;
+}
+.btn{
+    min-width: 80px;
+}
+.btn-active{
+    background-color: #51385c;
+    color:white;
+}
+.btn-none{
+    background-color: #fff;
+}

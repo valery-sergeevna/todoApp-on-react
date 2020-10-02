@@ -1,6 +1,10 @@
 .todo-app {
     margin: 2rem auto 0 auto;
-    max-width: 400px;
+    width:100%;
+    max-width:800px;
+    padding: 10px 20px;
+    background-image: linear-gradient(to top right, rgb(158, 166, 250), rgb(164, 164, 245), rgb(170, 162, 239), rgb(176, 160, 234), rgb(182, 158, 229), rgb(188, 156, 224), rgb(194, 153, 218), rgb(200, 151, 213), rgb(206, 149, 208), rgb(212, 147, 203), rgb(218, 145, 197), rgb(224, 143, 192));
+    border-radius: 15px;
   }
   
   .top-panel {
